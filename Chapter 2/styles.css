@@ -1,0 +1,46 @@
+body {
+  background-color: beige;
+}
+h1{    
+ text-align: center;    
+ font-size: 40px;    
+ color: #003652;    
+     
+}    
+   
+.calculatorbody{      
+ width: 23em;    
+ height: 40px;    
+ font-size: 18px;   
+ border: #171596; 
+     
+}    
+   
+.lcdform{      
+ color: grey;       
+ width: 27.6em;    
+ height: 35px;    
+ font-size: 15px;    
+     
+}    
+    
+button{    
+ background-color: #fff;    
+ width: 80px;    
+ height: 60px;    
+ font-size: 20px;    
+ border: 1px solid #171596;   
+}    
+    
+button:hover{    
+  background-color: #2911b1;        
+ }    
+
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10em;
+    margin-bottom: 10em;
+    text-decoration: underline;
+}
+
